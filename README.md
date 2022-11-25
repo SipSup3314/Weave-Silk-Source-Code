@@ -8,3 +8,5 @@ This requires beginner level knowledge of dev tools (inspect element) in the bro
 5. In the local folder with the code, go to the css folder and open font-awesome.css
 6. The remaining files should appear on the screen in curly brackets under @font-face (You might need to scroll down)
 Six easy steps to download Weave Silk
+# Legal
+This is for educational purposes only. I created this tutorial to teach about the browser's dev tools. I am not responsible for any legal troubles. All rights go to Silk Interactive Art. I have not written or changed any of this code.
